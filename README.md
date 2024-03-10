@@ -2,7 +2,7 @@
 
 > [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of awesome things related to learning zero knowledge proofs
-
+ 
 ## Contents
 
 - [Awesome zero knowledge proofs (zkp)](#awesome-zero-knowledge-proofs-zkp)
